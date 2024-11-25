@@ -3,7 +3,7 @@ public class prime {
     public static void main(String[] args) {
         
         // Hardcoded number to check
-        int num = 29;  // You can change this number to check different values
+        int num = 30;  // You can change this number to check different values
         
         // Check if the number is prime
         if (isPrime(num)) {
